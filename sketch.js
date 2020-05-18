@@ -15,7 +15,7 @@ function setup(){
     base1 = new Base(200,380,100,20);
     base2 = new Base(200,360,100,20);
     ball = new Ball(200,345,80,80);
-    valve = new Valve(245,300,25,-PI/4);
+    valve = new Valve(240,300,25,-PI/4);
 }
 
 function draw(){
